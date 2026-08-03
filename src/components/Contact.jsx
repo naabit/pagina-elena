@@ -15,7 +15,7 @@ const details = [
   {
     Icon: MailIcon,
     label: 'Correo',
-    value: <a href="mailto:correo@ejemplo.cl">elenafryderup@gmail.com</a>,
+    value: <a href="mailto:elenafryderup@gmail.com">elenafryderup@gmail.com</a>,
   },
   {
     Icon: PhoneIcon,
