@@ -31,7 +31,7 @@ export default function Hero() {
   <CalendarIcon />
   Agendar reunión
 </a>
-            <a className="button button--outline" href="https://wa.me/56900000000" target="_blank" rel="noreferrer"><WhatsAppIcon />WhatsApp</a>
+            <a className="button button--outline" href="https://wa.me/56955162685" target="_blank" rel="noreferrer"><WhatsAppIcon />WhatsApp</a>
           </div>
           <p className="trust-line"><ShieldIcon />Licenciada en Ciencias Jurídicas · Atención online y presencial</p>
         </div>
