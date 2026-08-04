@@ -22,7 +22,7 @@ export default function About() {
           <p className="eyebrow">Sobre mí</p><h2>R. Elena Fryderup</h2>
           <p className="about__role">Licenciada en Ciencias Jurídicas</p>
           <p>Mi propósito es entregar orientación jurídica clara, ordenada y cercana, para que puedas comprender tus alternativas y tomar decisiones informadas.</p>
-          <aside className="scope-note"><ShieldIcon /> <span>Mi trabajo se enfoca en gestión extrajudicial, redacción de documentos y orientación preventiva. Si tu situación requiere litigio, te ayudo a derivarla a un abogado especialista.</span></aside>
+          <aside className="scope-note"><ShieldIcon /> <span>No todos los conflictos necesitan llegar a juicio. Mi labor es orientarte, proteger tus intereses y preparar tu caso desde el primer momento. Si la vía judicial es necesaria, te ayudo a dar ese paso con el respaldo de un abogado especialista.</span></aside>
         </div>
       </div>
     </section>
