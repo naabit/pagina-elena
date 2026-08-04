@@ -4,7 +4,7 @@ const services = [
   { Icon: FileTextIcon, title: 'Contratos y documentos', text: 'Redacción y revisión de contratos, acuerdos y documentos adaptados a tu situación.' },
   { Icon: FamilyIcon, title: 'Materia de alimentos', text: 'Orientación y preparación de antecedentes para comprender y ordenar los pasos previos.' },
   { Icon: FolderIcon, title: 'Trámites extrajudiciales', text: 'Gestión y acompañamiento en procedimientos administrativos y ante instituciones.' },
-  { Icon: UserCheckIcon, title: 'Derivación a especialistas', text: 'Cuando un caso requiere litigio, te conecto con un abogado especialista de confianza.' },
+  { Icon: UserCheckIcon, title: 'Si tu caso debe ir a juicio', text: 'Mi trabajo es asegurar que llegues a esa etapa con claridad, antecedentes bien preparados y la orientación adecuada. Cuando corresponde, te derivo con un abogado especialista de confianza.' },
 ]
 
 export default function Services() {
