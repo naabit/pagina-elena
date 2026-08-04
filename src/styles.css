@@ -1097,21 +1097,25 @@ p {
   .form-group-full,
   .form-privacy,
   .contact-submit,
-.form-success {
-  grid-column: 1 / -1;
-  margin: 4px 0 0;
-  padding: 18px 20px;
-  border: 1px solid rgba(42, 112, 67, 0.42);
-  border-left: 5px solid #2f7a49;
-  border-radius: 12px;
-  background: #eef8f1;
-  color: #235d37;
-  font-size: 0.95rem;
-  font-weight: 600;
-  line-height: 1.55;
-  text-align: left;
-  box-shadow: 0 8px 24px rgba(42, 112, 67, 0.12);
-  animation: form-success-in 0.45s ease both;
+  .form-success {
+    grid-column: 1 / -1;
+  }
+
+  .form-success {
+    margin: 4px 0 0;
+    padding: 18px 20px;
+    border: 1px solid rgba(42, 112, 67, 0.42);
+    border-left: 5px solid #2f7a49;
+    border-radius: 12px;
+    background: #eef8f1;
+    color: #235d37;
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.55;
+    text-align: left;
+    box-shadow: 0 8px 24px rgba(42, 112, 67, 0.12);
+    animation: form-success-in 0.45s ease both;
+  }
 }
 
 .form-success::before {
@@ -1140,7 +1144,7 @@ p {
     transform: translateY(0);
   }
 }
-}
+
 
 /* =========================================================
    FOOTER
